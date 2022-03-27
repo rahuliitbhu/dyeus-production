@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dyeus-Project/static/css/main.95982ff6.css",
+    "main.js": "/Dyeus-Project/static/js/main.e166cacb.js",
+    "static/js/787.8df20f20.chunk.js": "/Dyeus-Project/static/js/787.8df20f20.chunk.js",
+    "static/media/pexels-karolina-grabowska-4041391.png": "/Dyeus-Project/static/media/pexels-karolina-grabowska-4041391.63148a2a8492f6ae6992.png",
+    "static/media/usman-yousaf-MP9W9DtdoBI-unsplash 2.png": "/Dyeus-Project/static/media/usman-yousaf-MP9W9DtdoBI-unsplash 2.be1dc7c872494b7afe4f.png",
+    "static/media/4352299 1.png": "/Dyeus-Project/static/media/4352299 1.e01300a91f35d15283da.png",
+    "static/media/Untitled-2 3.png": "/Dyeus-Project/static/media/Untitled-2 3.03a93cf0bec7ecf10a94.png",
+    "static/media/Rectangle 197.png": "/Dyeus-Project/static/media/Rectangle 197.163e23d4efd8e30bbddc.png",
+    "static/media/Rectangle 198.png": "/Dyeus-Project/static/media/Rectangle 198.37082bab28bd1db0cb32.png",
+    "static/media/Rectangle 193.png": "/Dyeus-Project/static/media/Rectangle 193.ab0b87b0ca1e7b43055c.png",
+    "static/media/Rectangle 194.png": "/Dyeus-Project/static/media/Rectangle 194.90b81e1b8fe7bb0bf1f6.png",
+    "index.html": "/Dyeus-Project/index.html",
+    "main.95982ff6.css.map": "/Dyeus-Project/static/css/main.95982ff6.css.map",
+    "main.e166cacb.js.map": "/Dyeus-Project/static/js/main.e166cacb.js.map",
+    "787.8df20f20.chunk.js.map": "/Dyeus-Project/static/js/787.8df20f20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95982ff6.css",
+    "static/js/main.e166cacb.js"
+  ]
+}
